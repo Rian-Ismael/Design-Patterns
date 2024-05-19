@@ -1,1 +1,1 @@
-# strategy-templat
+# strategy
